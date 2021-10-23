@@ -1,4 +1,4 @@
 Hello World
-Freature 1
+Feature 1
 update
 
